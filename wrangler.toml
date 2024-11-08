@@ -1,4 +1,4 @@
-name = "remix-cloudflare-workers-template"
+name = "remix-wasm-r2-presigned-url-test"
 
 main = "./server.ts"
 workers_dev = true
